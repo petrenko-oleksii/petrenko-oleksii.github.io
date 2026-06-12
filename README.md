@@ -1,2 +1,2 @@
-# uxui.oleksii.petrenko.github.io
+# petrenko-design.github.io
 This is my portfolio
